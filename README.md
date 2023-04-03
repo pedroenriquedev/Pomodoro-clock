@@ -8,7 +8,7 @@ HTML, SASS and Javascript.
 
 ## Live Demo
 
-www.tobeworked.com
+https://pedroenriquedev.github.io/Pomodoro-clock/
 
 #### Showcase
 
